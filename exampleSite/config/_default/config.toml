@@ -7,7 +7,7 @@ languageName = "TW"
 paginate = "6"
 summaryLength = "20"
 theme = "geeky-hugo"
-title = "Geeky | Hugo Personal Blog Template"
+title = "納舉 !  | 行為科學平台"
 [caches.assets]
 dir = ":resourceDir/_gen"
 maxAge = "720h"
