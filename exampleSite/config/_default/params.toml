@@ -41,7 +41,7 @@ button_label = "關於我"
 button_link = "about/"
 content = "歡迎來到華文界第一個行為科學知識平台！透過這個平台，你可以掌握行為科學界最新的研究趨勢與發展，並深入瞭解行為科學的實用理論，我們期待與您共同探索行為科學的奧秘！"
 enable = true
-image = "images/banner.png"
+image = "/images/image3.png"
 title_large = "Welcome to 納舉 **!**"
 title_small = "行為科學平台"
 [cookies]
