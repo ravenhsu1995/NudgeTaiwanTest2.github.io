@@ -37,13 +37,13 @@ image = "images/promotion.png"
 link = "https://gethugothemes.com/"
 [banner]
 background_image = "/images/banner-bg-shape.svg"
-button_label = "Know About Me"
+button_label = "關於我"
 button_link = "about/"
-content = "Are Developer and recently started your own business Already made website to ensure presence wants to develop."
+content = "歡迎來到華文界第一個行為科學知識平台！透過這個平台，你可以掌握行為科學界最新的研究趨勢與發展，並深入瞭解行為科學的實用理論，我們期待與您共同探索行為科學的奧秘！"
 enable = true
 image = "images/banner.png"
-title_large = "Welcome **!**"
-title_small = "華文界第一個行為科學知識平台"
+title_large = "Welcome to 納舉 **!**"
+title_small = "行為科學知識平台"
 [cookies]
 button = "I Accept"
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
