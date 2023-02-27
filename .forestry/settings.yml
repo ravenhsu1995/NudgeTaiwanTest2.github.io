@@ -8,7 +8,7 @@ sections:
   label: Homepage
 - type: document
   path: exampleSite/content/english/_index.md
-  label: Homepage (en)
+  label: 首頁
 - type: document
   path: exampleSite/content/deutsch/_index.md
   label: Homepage (de)
@@ -40,7 +40,7 @@ sections:
   label: Others Page
 - type: document
   path: exampleSite/content/english/contact/_index.md
-  label: Contact (en)
+  label: 保持聯絡
 - type: document
   path: exampleSite/content/deutsch/contact/_index.md
   label: Contact (de)
