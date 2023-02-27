@@ -43,7 +43,7 @@ content = "歡迎來到華文界第一個行為科學知識平台！透過這個
 enable = true
 image = "images/banner.png"
 title_large = "Welcome to 納舉 **!**"
-title_small = "行為科學知識平台"
+title_small = "行為科學平台"
 [cookies]
 button = "I Accept"
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
