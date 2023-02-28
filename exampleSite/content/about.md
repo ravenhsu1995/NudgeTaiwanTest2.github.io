@@ -5,8 +5,10 @@ image: "/images/founder.jpg"
 layout: about
 education:
   enable: true
-  title: Formal Education
+  title: 學歷
   education_list:
+  - name: 國立中山大學
+    content: ''
   - name: 英國杜倫大學
     content: 2021 • 2022
 experience:
