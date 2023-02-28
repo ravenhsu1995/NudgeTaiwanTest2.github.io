@@ -1,7 +1,7 @@
 ---
 title: 關於Raven
 description: this is meta-description
-image: images/author.png
+image: "/images/founder.jpg"
 layout: about
 education:
   enable: true
