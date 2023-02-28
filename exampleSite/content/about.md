@@ -7,7 +7,7 @@ education:
   enable: true
   title: Formal Education
   education_list:
-  - name: Durham University
+  - name: 英國杜倫大學
     content: 2021 • 2022
 experience:
   enable: true
